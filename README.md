@@ -6,6 +6,7 @@ my projects of focus are:
 - [3d web environment](https://meowbeee.github.io/pages/movement.html) that simulates quake movement (air strafing, air acceleration, etc) on my github pages website
 - [data automation and management](https://github.com/meowbeee/TextbookDataToExcel) software used at the Valley Library by staff to aid in textbook purchasing and tracking
 - [color picking android app](https://github.com/meowbeee/ColorPaletteApp) that utilizes a REST API to create storable and editable color templates for users
+- [twitch & discord chat bots](https://github.com/meowbeee/meows4bots) that utilize the Twitch, Spotify, and Discord APIs to add to chatting experiences
 
 im also a high ranked `destiny 2` and `ffxiv` raider, with a strong emphasis on self improvement in my skills above all else, always aiming to be one of the best. this pursuit carries from my personal life into my professional life.
 
